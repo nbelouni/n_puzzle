@@ -4,6 +4,8 @@
 using the A\* search algorithm or one of its variants.
 
 Key Usage:
+
+
 	[ SPACE BAR ] -> Solve Puzzle
 	[ R ] -> Shuffle Randomly
 	[ V ] -> Shuffle from Resolved
